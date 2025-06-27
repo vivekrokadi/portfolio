@@ -1882,8 +1882,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-#clang{
-  width:"168px";
-  height:"192px";
+#lang{
+  width:"150px";
+  height:"150px";
   object-fit: cover;
 }
