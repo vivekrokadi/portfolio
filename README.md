@@ -28,7 +28,7 @@ Check it out live: [https://vivekrokadi-portfolio.vercel.app](https://vivekrokad
 
 | ![Home](./assets/images/about.png) | ![Resume](./assets/images/resumesec.png) | ![Projects](./assets/images/projectsec.png) |
 
-> 💡 You can replace the above screenshots with your own by adding images to a `screenshots` folder in the root of your repo.
-
-## 📁 Folder Structure
+## 🙋‍♂️ About Me
+I’m Vivek Rokadi, a passionate web developer exploring modern web technologies and building practical, real-world projects.
+Feel free to connect with me or explore more of my work!
 
